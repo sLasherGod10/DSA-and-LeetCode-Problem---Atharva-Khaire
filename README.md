@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/sLasherGod10/DSA-and-LeetCode-Problem---Atharva-Khaire/tree/master/0319-bulb-switcher) |
 | [1025-divisor-game](https://github.com/sLasherGod10/DSA-and-LeetCode-Problem---Atharva-Khaire/tree/master/1025-divisor-game) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/sLasherGod10/DSA-and-LeetCode-Problem---Atharva-Khaire/tree/master/1232-check-if-it-is-a-straight-line) |
+| [2579-count-total-number-of-colored-cells](https://github.com/sLasherGod10/DSA-and-LeetCode-Problem---Atharva-Khaire/tree/master/2579-count-total-number-of-colored-cells) |
 ## Dynamic Programming
 |  |
 | ------- |
