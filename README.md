@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/sLasherGod10/DSA-and-LeetCode-Problem---Atharva-Khaire/tree/master/0319-bulb-switcher) |
 | [1025-divisor-game](https://github.com/sLasherGod10/DSA-and-LeetCode-Problem---Atharva-Khaire/tree/master/1025-divisor-game) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/sLasherGod10/DSA-and-LeetCode-Problem---Atharva-Khaire/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/sLasherGod10/DSA-and-LeetCode-Problem---Atharva-Khaire/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2579-count-total-number-of-colored-cells](https://github.com/sLasherGod10/DSA-and-LeetCode-Problem---Atharva-Khaire/tree/master/2579-count-total-number-of-colored-cells) |
 ## Dynamic Programming
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/sLasherGod10/DSA-and-LeetCode-Problem---Atharva-Khaire/tree/master/0643-maximum-average-subarray-i) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/sLasherGod10/DSA-and-LeetCode-Problem---Atharva-Khaire/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/sLasherGod10/DSA-and-LeetCode-Problem---Atharva-Khaire/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/sLasherGod10/DSA-and-LeetCode-Problem---Atharva-Khaire/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Geometry
 |  |
 | ------- |
