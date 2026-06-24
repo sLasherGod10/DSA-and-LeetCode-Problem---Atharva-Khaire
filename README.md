@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/sLasherGod10/DSA-and-LeetCode-Problem---Atharva-Khaire/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/sLasherGod10/DSA-and-LeetCode-Problem---Atharva-Khaire/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/sLasherGod10/DSA-and-LeetCode-Problem---Atharva-Khaire/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sLasherGod10/DSA-and-LeetCode-Problem---Atharva-Khaire/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/sLasherGod10/DSA-and-LeetCode-Problem---Atharva-Khaire/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/sLasherGod10/DSA-and-LeetCode-Problem---Atharva-Khaire/tree/master/0258-add-digits) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/sLasherGod10/DSA-and-LeetCode-Problem---Atharva-Khaire/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sLasherGod10/DSA-and-LeetCode-Problem---Atharva-Khaire/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/sLasherGod10/DSA-and-LeetCode-Problem---Atharva-Khaire/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/sLasherGod10/DSA-and-LeetCode-Problem---Atharva-Khaire/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/sLasherGod10/DSA-and-LeetCode-Problem---Atharva-Khaire/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/sLasherGod10/DSA-and-LeetCode-Problem---Atharva-Khaire/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sLasherGod10/DSA-and-LeetCode-Problem---Atharva-Khaire/tree/master/0268-missing-number) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sLasherGod10/DSA-and-LeetCode-Problem---Atharva-Khaire/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/sLasherGod10/DSA-and-LeetCode-Problem---Atharva-Khaire/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sLasherGod10/DSA-and-LeetCode-Problem---Atharva-Khaire/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/sLasherGod10/DSA-and-LeetCode-Problem---Atharva-Khaire/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sLasherGod10/DSA-and-LeetCode-Problem---Atharva-Khaire/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/sLasherGod10/DSA-and-LeetCode-Problem---Atharva-Khaire/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sLasherGod10/DSA-and-LeetCode-Problem---Atharva-Khaire/tree/master/0349-intersection-of-two-arrays) |
