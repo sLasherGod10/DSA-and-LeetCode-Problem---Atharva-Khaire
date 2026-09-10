@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/sLasherGod10/DSA-and-LeetCode-Problem---Atharva-Khaire/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/sLasherGod10/DSA-and-LeetCode-Problem---Atharva-Khaire/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/sLasherGod10/DSA-and-LeetCode-Problem---Atharva-Khaire/tree/master/0643-maximum-average-subarray-i) |
+| [0905-sort-array-by-parity](https://github.com/sLasherGod10/DSA-and-LeetCode-Problem---Atharva-Khaire/tree/master/0905-sort-array-by-parity) |
 | [0944-delete-columns-to-make-sorted](https://github.com/sLasherGod10/DSA-and-LeetCode-Problem---Atharva-Khaire/tree/master/0944-delete-columns-to-make-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/sLasherGod10/DSA-and-LeetCode-Problem---Atharva-Khaire/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/sLasherGod10/DSA-and-LeetCode-Problem---Atharva-Khaire/tree/master/1089-duplicate-zeros) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/sLasherGod10/DSA-and-LeetCode-Problem---Atharva-Khaire/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/sLasherGod10/DSA-and-LeetCode-Problem---Atharva-Khaire/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/sLasherGod10/DSA-and-LeetCode-Problem---Atharva-Khaire/tree/master/0392-is-subsequence) |
+| [0905-sort-array-by-parity](https://github.com/sLasherGod10/DSA-and-LeetCode-Problem---Atharva-Khaire/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/sLasherGod10/DSA-and-LeetCode-Problem---Atharva-Khaire/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/sLasherGod10/DSA-and-LeetCode-Problem---Atharva-Khaire/tree/master/1089-duplicate-zeros) |
 ## Sorting
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sLasherGod10/DSA-and-LeetCode-Problem---Atharva-Khaire/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sLasherGod10/DSA-and-LeetCode-Problem---Atharva-Khaire/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/sLasherGod10/DSA-and-LeetCode-Problem---Atharva-Khaire/tree/master/0414-third-maximum-number) |
+| [0905-sort-array-by-parity](https://github.com/sLasherGod10/DSA-and-LeetCode-Problem---Atharva-Khaire/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/sLasherGod10/DSA-and-LeetCode-Problem---Atharva-Khaire/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
