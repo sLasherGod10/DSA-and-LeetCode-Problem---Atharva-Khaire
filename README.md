@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sLasherGod10/DSA-and-LeetCode-Problem---Atharva-Khaire/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sLasherGod10/DSA-and-LeetCode-Problem---Atharva-Khaire/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/sLasherGod10/DSA-and-LeetCode-Problem---Atharva-Khaire/tree/master/0392-is-subsequence) |
+| [0459-repeated-substring-pattern](https://github.com/sLasherGod10/DSA-and-LeetCode-Problem---Atharva-Khaire/tree/master/0459-repeated-substring-pattern) |
 | [0680-valid-palindrome-ii](https://github.com/sLasherGod10/DSA-and-LeetCode-Problem---Atharva-Khaire/tree/master/0680-valid-palindrome-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/sLasherGod10/DSA-and-LeetCode-Problem---Atharva-Khaire/tree/master/0944-delete-columns-to-make-sorted) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/sLasherGod10/DSA-and-LeetCode-Problem---Atharva-Khaire/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -225,14 +226,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sLasherGod10/DSA-and-LeetCode-Problem---Atharva-Khaire/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/sLasherGod10/DSA-and-LeetCode-Problem---Atharva-Khaire/tree/master/0459-repeated-substring-pattern) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sLasherGod10/DSA-and-LeetCode-Problem---Atharva-Khaire/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/sLasherGod10/DSA-and-LeetCode-Problem---Atharva-Khaire/tree/master/0459-repeated-substring-pattern) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sLasherGod10/DSA-and-LeetCode-Problem---Atharva-Khaire/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/sLasherGod10/DSA-and-LeetCode-Problem---Atharva-Khaire/tree/master/0459-repeated-substring-pattern) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
