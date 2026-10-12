@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/sLasherGod10/DSA-and-LeetCode-Problem---Atharva-Khaire/tree/master/1207-unique-number-of-occurrences) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/sLasherGod10/DSA-and-LeetCode-Problem---Atharva-Khaire/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sLasherGod10/DSA-and-LeetCode-Problem---Atharva-Khaire/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/sLasherGod10/DSA-and-LeetCode-Problem---Atharva-Khaire/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Geometry
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/sLasherGod10/DSA-and-LeetCode-Problem---Atharva-Khaire/tree/master/0204-count-primes) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/sLasherGod10/DSA-and-LeetCode-Problem---Atharva-Khaire/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Database
 |  |
 | ------- |
