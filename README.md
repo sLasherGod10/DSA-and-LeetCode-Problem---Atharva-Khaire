@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/sLasherGod10/DSA-and-LeetCode-Problem---Atharva-Khaire/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/sLasherGod10/DSA-and-LeetCode-Problem---Atharva-Khaire/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/sLasherGod10/DSA-and-LeetCode-Problem---Atharva-Khaire/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/sLasherGod10/DSA-and-LeetCode-Problem---Atharva-Khaire/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/sLasherGod10/DSA-and-LeetCode-Problem---Atharva-Khaire/tree/master/0905-sort-array-by-parity) |
 | [0944-delete-columns-to-make-sorted](https://github.com/sLasherGod10/DSA-and-LeetCode-Problem---Atharva-Khaire/tree/master/0944-delete-columns-to-make-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/sLasherGod10/DSA-and-LeetCode-Problem---Atharva-Khaire/tree/master/0977-squares-of-a-sorted-array) |
@@ -306,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/sLasherGod10/DSA-and-LeetCode-Problem---Atharva-Khaire/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sLasherGod10/DSA-and-LeetCode-Problem---Atharva-Khaire/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/sLasherGod10/DSA-and-LeetCode-Problem---Atharva-Khaire/tree/master/0387-first-unique-character-in-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/sLasherGod10/DSA-and-LeetCode-Problem---Atharva-Khaire/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
