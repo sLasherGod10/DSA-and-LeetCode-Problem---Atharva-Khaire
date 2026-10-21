@@ -9,7 +9,7 @@ public:
             st[magazine[i]]++;
         }
         for( int i = 0 ; i < ransomNote.size() ; i++){
-            if( st[ransomNote[i]] <= 0){
+            if( st[ransomNote[i]] == 0){
                 return false;
             }
             st[ransomNote[i]]--;
